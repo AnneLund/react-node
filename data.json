@@ -1,0 +1,47 @@
+[{
+      "type": "articles",
+      "id": "1",
+      "attributes": {
+        "title": "API paints my bikeshed!",
+        "body": "Og det var Danmark",
+        "created": "2015-05-22",
+        "updated": "2015-05-22"
+      },
+      "relationships": {
+        "author": {
+          "data": {"id": "42", "type": "people"}
+        }
+      }
+    },
+    
+    {
+      "type": "articles",
+      "id": "2",
+      "attributes": {
+        "title": "Hurra hurra",
+        "body": "Den korteste artikel",
+        "created": "2015-05-22",
+        "updated": "2015-05-22"
+      },
+      "relationships": {
+        "author": {
+          "data": {"id": "42", "type": "people"}
+        }
+      }
+    },
+    
+    {
+      "type": "articles",
+      "id": "3",
+      "attributes": {
+        "title": "Den grimme ælling",
+        "body": "Der var engang en svane",
+        "created": "2015-05-22",
+        "updated": "2015-05-22"
+      },
+      "relationships": {
+        "author": {
+          "data": {"id": "42", "type": "people"}
+        }
+      }
+    }]

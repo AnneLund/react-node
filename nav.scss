@@ -1,0 +1,15 @@
+ul{
+    display: flex;
+    gap: 3vw;
+
+    li{
+        list-style-type: none;
+        a{
+            color: white;
+            &:hover{
+                color: rgba(47, 137, 205, 0.928);
+                transition: 300ms;
+            }
+        }
+    }
+}
